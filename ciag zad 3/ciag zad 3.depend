@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1611097739 source:d:\mati\moje programy\ciag zad 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1611097016 d:\mati\moje programy\ciag zad 3\main.h
+	"modul_rekurencyjny.h"
+	"modul_iterencyjny.h"
+
+1611096877 d:\mati\moje programy\ciag zad 3\modul_rekurencyjny.h
+
+1611096877 d:\mati\moje programy\ciag zad 3\modul_iterencyjny.h
+
+1611136434 source:d:\mati\moje programy\ciag zad 3\modul_iterencyjny.c
+	"modul_iterencyjny.h"
+	"main.h"
+
+1611096877 source:d:\mati\moje programy\ciag zad 3\modul_rekurencyjny.c
+	"modul_rekurencyjny.h"
+	"main.h"
+
